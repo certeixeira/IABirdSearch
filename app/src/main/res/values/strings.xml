@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IATensorFlow</string>
+    <string name="btn_load_image_txt">Load Image</string>
+    <string name="btn_take_photo_txt">take photo</string>
+</resources>
